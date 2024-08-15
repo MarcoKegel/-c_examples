@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "attiny",
+			"path": "digispark-usb/attiny"
+		},
+		{
+			"name": "digispark-usb",
+			"path": "digispark-usb"
+		},
+		{
+			"name": "ESP32-cam",
+			"path": "/home/marcok/data/git/arduino_examples/software/ESP32-cam"
+		}
+	]
+}
