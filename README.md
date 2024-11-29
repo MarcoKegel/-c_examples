@@ -23,6 +23,8 @@ This repository contains example codes, documentation (datasheets, pinout) to en
 
 ## [ESP8266](documentation/ESP8266/esp8266.md)
 
+## [CH32V003](documentation/CH32/CH32V003.md)
+
 ## [attiny](documentation/attiny/attiny.md)
 
 ## [Arduino](documentation/arduino/arduino.md)
